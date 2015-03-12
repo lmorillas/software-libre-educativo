@@ -35,6 +35,9 @@
     .exhibit-facet-value {
         font-size: smaller;
     }
+    .exhibit-facet-header, .exhibit-cloudFacet-header {
+        margin-top: 12px;
+    }
     div.exhibit-legendWidget > div.exhibit-color-legend > div > div > span.label {
         color: black;
     }
@@ -44,6 +47,11 @@
     $(window).load(function() {
         $("input").addClass("form-control");
     });
+    </script>
+    <script type="text/javascript">
+    var tableStyler = function(table, database) {
+        $(table).addClass("table table-hover");
+    };
     </script>
 </head>
 
@@ -72,39 +80,20 @@
                 <div data-ex-role="exhibit-facet" data-ex-expression=".area" data-ex-facet-label="Áreas" data-ex-show-missing="false" data-ex-scroll="true"
                 data-ex-collapsible="true"></div>
 
-                <div data-ex-role="exhibit-facet" data-ex-expression=".subarea" data-ex-facet-label="Subáreas" data-ex-show-missing="false" data-ex-scroll="true" data-ex-collapsible="true"></div>
 
+                <div data-ex-role="exhibit-facet" data-ex-expression=".subarea" data-ex-facet-label="Subáreas" data-ex-show-missing="false" data-ex-scroll="true" data-ex-collapsible="true"></div>
             </div>
 
             <div class="col-md-6">
-              <div data-ex-role="lens" class="a-lens" style="display: none;">
-                    <div class="title"><strong><a data-ex-href-content=".url"><span data-ex-content=".label"></span>
-                    </a></strong>
+                <div data-ex-role="view" data-ex-label="Software Educativo" data-ex-view-class="Tabular" data-ex-columns=".label, .area, .nivel" data-ex-column-labels="Nombre, Área, Nivel" data-ex-column-formats="text, text, text" data-ex-sort-column="1" data-ex-sort-ascending="true" data-ex-table-styler="tableStyler" data-ex-paginate="true" data-ex-page-size="25" >
+                        <table style="display: none;">
+                            <tr>
+                                <td><a data-ex-href-content=".link"><span data-ex-content=".label"></span></a></td>
+                                <td><span data-ex-content=".area"></span></td>
+                                <td><span data-ex-content=".nivel"></span></td>
+                            </tr>
+                        </table>
                     </div>
-
-                    <table class="table">
-                        <tr>
-                            <td class="property">Niveles Educativos</td>
-                            <td>
-                                <span data-ex-content=".nivel"></span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="property">Área</td>
-                            <td>
-                                <span data-ex-content=".area"></span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="property">Subárea:</td>
-                            <td>
-                                <span data-ex-content=".subárea"></span>
-                            </td>
-                        </tr>
-                    </table>
-                </div>
-
-                <div data-ex-role="view" data-ex-label="Software"></div>
 
 
             </div>
