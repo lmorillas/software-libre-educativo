@@ -19,20 +19,27 @@ def nivel(f):
 
 def link(f):
     try:
-        return f.td[6].a.href
+        return f.td[6].a.href.strip()
     except:
         return None
 
 def label(f):
-    return U(f.td[6])
+    return U(f.td[6]).strip()
 
 resultado = []
 
 def extraer(datos):
     for fila in datos:
-
             keys = 'area nivel link label'.split()
-            res = zip(keys, [area(fila), nivel(fila), link(fila), label(fila)])
+            res = dict(zip(keys, [area(fila), nivel(fila), link(fila), label(fila)]))
+            _area = res.get('area')
+            if '-' in _area:
+                _area = _area.split('-')
+                res['area'] = _area[0].strip()
+                res['subarea'] = _area[1].strip()
             resultado.append(res)
 
 extraer(datos)
+
+import json
+json.dump({'items': resultado}, open('software.json', 'w'))
