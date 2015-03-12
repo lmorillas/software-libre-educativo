@@ -1,0 +1,1850 @@
+{
+    "items": [{
+        "nivel": ["EP1", "EP2", "EM", "ES"],
+        "label": "Eboard\n",
+        "link": "http://www.bergo.eng.br/eboard",
+        "area": "Ajedrez"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Glchess\n",
+        "link": "http://wiki.gnome.org/Apps/Chess",
+        "area": "Ajedrez"
+    }, {
+        "nivel": ["EP1", "EP2", "EM", "ES"],
+        "label": "Tagua\n",
+        "link": "http://freecode.com/projects/tagua",
+        "area": "Ajedrez"
+    }, {
+        "nivel": ["EP1", "EP2", "EM", "ES"],
+        "label": "Xboard\n",
+        "link": "http://www.gnu.org/software/xboard",
+        "area": "Ajedrez"
+    }, {
+        "nivel": ["EPE", "EP1"],
+        "label": "JIlettres\n",
+        "link": "http://jiletters.sourceforge.net/",
+        "area": "Alfabetizaci\u00f3n"
+    }, {
+        "nivel": ["EPE", "EP1"],
+        "label": "Klettres\n",
+        "link": "http://www.kde.org/applications/education/klettres",
+        "area": "Alfabetizaci\u00f3n"
+    }, {
+        "nivel": ["EPE", "EP1"],
+        "label": "Lletters\n",
+        "link": "http://packages.debian.org/pt-br/sid/lletters",
+        "area": "Alfabetizaci\u00f3n"
+    }, {
+        "nivel": ["EPE", "EP1"],
+        "label": "Luz do Saber EI\n",
+        "link": "http://luzdosaber.seduc.ce.gov.br/paic",
+        "area": "Alfabetizaci\u00f3n"
+    }, {
+        "nivel": ["EP1"],
+        "label": "Luz do Saber EJA\n",
+        "link": "http://luzdosaber.seduc.ce.gov.br/eja",
+        "area": "Alfabetizaci\u00f3n"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Tests",
+        "label": "Amc\n",
+        "link": "http://home.gna.org/auto-qcm",
+        "area": "Autoria"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Tests",
+        "label": "Itest\n",
+        "link": "http://itest.sourceforge.net",
+        "area": "Autoria"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "subarea": "Tests",
+        "label": "Yellowcot\n",
+        "link": "http://code.google.com/p/yellowcot",
+        "area": "Autoria"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Web",
+        "label": "eLML\n",
+        "link": "http://www.elml.org",
+        "area": "Autoria"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Web",
+        "label": "eXeLearning\n",
+        "link": "http://exelearning.net",
+        "area": "Autoria"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Genoma",
+        "label": "Yass\n",
+        "link": "http://bioinfo.lifl.fr/yass",
+        "area": "Biolog\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Gen\u00e9tica",
+        "label": "GenoCAD\n",
+        "link": "http://genocad.org",
+        "area": "Biolog\u00eda"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Adun\n",
+        "link": "http://lavandula.imim.es/adun-new",
+        "area": "Biolog\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Ascalaph Designer\n",
+        "link": "http://www.biomolecular-modeling.com/Ascalaph/Ascalaph_Designer.html",
+        "area": "Biolog\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "BALL\n",
+        "link": "http://www.ball-project.org",
+        "area": "Biolog\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Bioclipse\n",
+        "link": "http://www.bioclipse.net",
+        "area": "Biolog\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Bioconductor\n",
+        "link": "http://www.bioconductor.org",
+        "area": "Biolog\u00eda"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "C2pk\n",
+        "link": "http://www.cp2k.org",
+        "area": "Biolog\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Coot\n",
+        "link": "http://www2.mrc-lmb.cam.ac.uk/Personal/pemsley/coot",
+        "area": "Biolog\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Procesos",
+        "label": "PathVisio\n",
+        "link": "http://www.pathvisio.org",
+        "area": "Biolog\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "simulaci\u00f3n neural",
+        "label": "Emergent\n",
+        "link": "https://grey.colorado.edu/emergent",
+        "area": "Biolog\u00eda"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2"],
+        "label": "Tuxpaint\n",
+        "link": "http://tuxpaint.org",
+        "area": "Educaci\u00f3n art\u00edstica"
+    }, {
+        "nivel": ["EPE", "EP1"],
+        "label": "Ktuberling\n",
+        "link": "http://www.kde.org/applications/games/ktuberling",
+        "area": "Educaci\u00f3n Preescolar"
+    }, {
+        "nivel": ["EPE", "EP1"],
+        "label": "Pysycache\n",
+        "link": "http://www.pysycache.org",
+        "area": "Educaci\u00f3n Preescolar"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "An\u00e1lisis de datos",
+        "label": "ROOT\n",
+        "link": "http://root.cern.ch",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "Aciqra\n",
+        "link": "http://aciqra.caglow.com",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "Cartes du Ciel\n",
+        "link": "http://www.ap-i.net/skychart/en/start",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "Celestia\n",
+        "link": "http://www.shatters.net/celestia",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "GADGET\n",
+        "link": "http://www.mpa-garching.mpg.de/gadget",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "Gpredict\n",
+        "link": "http://gpredict.oz9aec.net",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP1", "EP2", "EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "Home Planet\n",
+        "link": "http://www.fourmilab.ch/homeplanet",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "KAstrHorloge\n",
+        "link": "http://david.bieder.free.fr/eric/kastrhorloge/kastrhorloge_en.html",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "Kstars\n",
+        "link": "http://edu.kde.org/kstars",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "Mars Simulation\n",
+        "link": "http://mars-sim.sourceforge.net",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP1", "EP2", "EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "Moontool\n",
+        "link": "http://www.fourmilab.ch/moontoolw",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "Nova\n",
+        "link": "http://nova.sourceforge.net",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "Orbit-Vis\n",
+        "link": "http://sourceforge.net/projects/orbitvis",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "Orsa\n",
+        "link": "http://orsa.sourceforge.net",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "subarea": "Astronom\u00eda",
+        "label": "Planets\n",
+        "link": "http://planets.homedns.org",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "PP3\n",
+        "link": "http://pp3.sourceforge.net",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "StarPlot\n",
+        "link": "http://starplot.org",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "Stellarium\n",
+        "link": "http://www.stellarium.org",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Astronom\u00eda",
+        "label": "Xstar\n",
+        "link": "http://www.schlitt.net/xstar",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "CAD",
+        "label": "Alliance\n",
+        "link": "http://www-soc.lip6.fr/recherche/cian/alliance",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "CAD",
+        "label": "BRL-CAD\n",
+        "link": "http://brlcad.org/",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "CAD",
+        "label": "FreeCAD\n",
+        "link": "http://www.freecadweb.org",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "CAD",
+        "label": "KiCad\n",
+        "link": "http://www.kicad-pcb.org",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "CAD",
+        "label": "LibreCAD\n",
+        "link": "http://librecad.org",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "CAD",
+        "label": "QCAD\n",
+        "link": "http://www.qcad.org",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Circuitos Electr\u00f3nicos",
+        "label": "gEDA\n",
+        "link": "http://www.geda-project.org",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Circuitos Electr\u00f3nicos",
+        "label": "TclSpice\n",
+        "link": "http://ngspice.sourceforge.net/tclspice.html",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Electr\u00f3nica",
+        "label": "Electric VLSI\n",
+        "link": "http://www.staticfreesoft.com",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "subarea": "Electr\u00f3nica",
+        "label": "Ksimus\n",
+        "link": "http://sourceforge.net/projects/ksimus.berlios",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Fluidodin\u00e1mica",
+        "label": "SU2\n",
+        "link": "http://su2.stanford.edu",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Fluidodin\u00e1mica",
+        "label": "Vortexje\n",
+        "link": "http://vortexje.org",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Hidrodin\u00e1mica",
+        "label": "ANUGA Hydro\n",
+        "link": "http://anuga.anu.edu.au",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Part\u00edcula",
+        "label": "Java Analysis Studio\n",
+        "link": "http://jas.freehep.org/jas3",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "simulaci\u00f3n",
+        "label": "EJS Modeling\n",
+        "link": "http://www.opensourcephysics.org/search/categories.cfm?t=Overview",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "simulaci\u00f3n",
+        "label": "FisicaLab\n",
+        "link": "https://www.gnu.org/software/fisicalab",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "simulaci\u00f3n",
+        "label": "Gravit\n",
+        "link": "http://gravit.slowchop.com",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "simulaci\u00f3n",
+        "label": "OpenRocket\n",
+        "link": "http://openrocket.sourceforge.net",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "simulaci\u00f3n",
+        "label": "Rigs of Rods\n",
+        "link": "http://www.rigsofrods.com",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "subarea": "simulaci\u00f3n",
+        "label": "Step\n",
+        "link": "http://edu.kde.org/step",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "subarea": "simulaci\u00f3n",
+        "label": "Xball\n",
+        "link": "http://packages.debian.org/pt-br/sid/xball",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "simulaci\u00f3n",
+        "label": "Logisim\n",
+        "link": "http://www.cburch.com/logisim",
+        "area": "F\u00edsica"
+    }, {
+        "nivel": ["ES"],
+        "label": "Geant4\n",
+        "link": "http://www.geant4.org",
+        "area": "F\u00edsica computacional"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Atlas",
+        "label": "Digital Universe Atlas\n",
+        "link": "http://www.amnh.org/our-research/hayden-planetarium/digital-universe",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "GIS",
+        "label": "Grass\n",
+        "link": "http://grass.osgeo.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "GIS",
+        "label": "gvSIG\n",
+        "link": "http://www.gvsig.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "GIS",
+        "label": "MapWindow GIS\n",
+        "link": "http://www.mapwindow.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "GIS",
+        "label": "QGIS\n",
+        "link": "http://qgis.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "GIS",
+        "label": "SAGA GIS\n",
+        "link": "http://www.saga-gis.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "GIS",
+        "label": "uDig\n",
+        "link": "http://udig.refractions.net",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Geoespacial",
+        "label": "Whitebox GAT\n",
+        "link": "http://www.uoguelph.ca/~hydrogeo/Whitebox",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Geof\u00edsica",
+        "label": "Madagascar\n",
+        "link": "http://www.ahay.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Geof\u00edsica",
+        "label": "Seismic Unix\n",
+        "link": "http://www.cwp.mines.edu/cwpcodes",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Geolog\u00eda",
+        "label": "GPlates\n",
+        "link": "http://www.gplates.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Geolog\u00eda",
+        "label": "OpenStereo\n",
+        "link": "http://www.igc.usp.br/index.php?id=openstereo",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Geoespacial",
+        "label": "Deegree\n",
+        "link": "http://www.deegree.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Geovisualizaci\u00f3n",
+        "label": "Geoblock\n",
+        "link": "http://geoblock.sourceforge.net",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Geovisualizaci\u00f3n",
+        "label": "GeoDA\n",
+        "link": "http://geodacenter.asu.edu",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Geovisualizaci\u00f3n",
+        "label": "TerraLib\n",
+        "link": "http://www.terralib.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Geovisualizaci\u00f3n",
+        "label": "Terraview\n",
+        "link": "http://www.dpi.inpe.br/terraview",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Mapas de relieve",
+        "label": "Height Map Editor\n",
+        "link": "http://hme.sourceforge.net/",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Mapas",
+        "label": "Earth3D\n",
+        "link": "http://www.earth3d.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Mapas",
+        "label": "GMT\n",
+        "link": "http://gmt.soest.hawaii.edu",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Mapas",
+        "label": "JOSM\n",
+        "link": "https://josm.openstreetmap.de",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Mapas",
+        "label": "Kalypso\n",
+        "link": "http://kalypso.bjoernsen.de",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "subarea": "Mapas",
+        "label": "Kgeography\n",
+        "link": "http://userbase.kde.org/KGeography",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mapas",
+        "label": "Mapbender3\n",
+        "link": "http://www.mapbender3.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mapas",
+        "label": "Mapnik\n",
+        "link": "http://mapnik.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mapas",
+        "label": "MapServer\n",
+        "link": "http://www.mapserver.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Mapas",
+        "label": "Marble\n",
+        "link": "http://marble.kde.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Mapas",
+        "label": "Tkgeomap\n",
+        "link": "http://www.tkgeomap.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mapas",
+        "label": "Virtual Terrain\n",
+        "link": "http://vterrain.org",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "subarea": "Mapas",
+        "label": "Xrmap\n",
+        "link": "http://frmas.free.fr/li_1.htm#_Xrmap_",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Suelos",
+        "label": "ParaViewGeo\n",
+        "link": "http://paraviewgeo.objectivity.ca",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Vientos",
+        "label": "Dapple\n",
+        "link": "http://dapple.geosoft.com",
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "label": "kworldclock\n",
+        "link": null,
+        "area": "Geograf\u00eda"
+    }, {
+        "nivel": ["EP1", "EP2", "EM"],
+        "subarea": "ingl\u00e9s",
+        "label": "KasoVerb\n",
+        "link": "http://www.nongnu.org/kasoverb/",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "alem\u00e1n",
+        "label": "Gngt\n",
+        "link": "http://coinonedge.com/gngt",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "ingenier\u00eda texto",
+        "label": "GATE\n",
+        "link": "https://gate.ac.uk",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "espa\u00f1ol",
+        "label": "Kverbos\n",
+        "link": "http://edu.kde.org/kverbos",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Fon\u00e9tica",
+        "label": "Praat\n",
+        "link": "http://www.fon.hum.uva.nl/praat",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Gram\u00e1tica",
+        "label": "AGFL\n",
+        "link": "http://www.agfl.cs.ru.nl",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "hindi",
+        "label": "Accha\n",
+        "link": "http://accha.sourceforge.net/accha",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "japon\u00e9s",
+        "label": "Kanji Hunter\n",
+        "link": "http://accha.sourceforge.net/acchani",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "japon\u00e9s",
+        "label": "Kiten\n",
+        "link": "http://edu.kde.org/kiten",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "japon\u00e9s",
+        "label": "Zkanji\n",
+        "link": "http://www.zkanji.sourceforge.net",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Lingu\u00edstica",
+        "label": "EXMARaLDA\n",
+        "link": "http://www.exmaralda.org/en_index.html",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "memorizaci\u00f3n",
+        "label": "Genius\n",
+        "link": "http://genius.sourceforge.net",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "memorizaci\u00f3n",
+        "label": "Kvoctrain\n",
+        "link": "http://edu.kde.org/kvoctrain",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP1", "EP2", "EM"],
+        "subarea": "memorizaci\u00f3n",
+        "label": "Kwordquiz\n",
+        "link": "http://www.kde.org/applications/education/kwordquiz",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "portugu\u00e9s",
+        "label": "Gconjugue\n",
+        "link": "http://www.lepem.ufc.br/jaa/gconjugue",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP1"],
+        "label": "Khangman\n",
+        "link": "http://edu.kde.org/khangman",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "OpenTeacher\n",
+        "link": "http://openteacher.org",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Parley\n",
+        "link": "http://www.kde.org/applications/education/parley",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "label": "Pyenglish\n",
+        "link": "http://launchpad.net/pyenglish",
+        "area": "Idiomas"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Kpat\n",
+        "link": "http://games.kde.org/game.php?game=kpat",
+        "area": "Juego de naipes"
+    }, {
+        "nivel": ["EP1", "EP2", "EM", "ES"],
+        "label": "Batalha Naval\n",
+        "link": "http://www.kde.org/applications/games/navalbattle",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP2"],
+        "label": "CodeBreaker\n",
+        "link": "http://sourceforge.net/projects/codebreaker",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Freeciv\n",
+        "link": "http://freeciv.wikia.com",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Freecol\n",
+        "link": "http://www.freecol.org",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Kbackgammon\n",
+        "link": "http://games.kde.org/old/kde_boardgames.php",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Kblackbox\n",
+        "link": "http://games.kde.org/game.php?game=kblackbox",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Klines\n",
+        "link": "http://games.kde.org/game.php?game=klines",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Kmahjongg\n",
+        "link": "http://www.kde.org/applications/games/kmahjongg",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "label": "Konquest\n",
+        "link": "http://www.kde.org/applications/games/konquest",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Kreversi\n",
+        "link": "http://games.kde.org/game.php?game=kreversi",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "label": "KsirK\n",
+        "link": "http://www.kde.org/applications/games/ksirk",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Ksnake\n",
+        "link": "http://www.kde.org/applications/games/ksnakeduel",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Ksokoban\n",
+        "link": "http://games.kde.org/old/kde_tactics.php",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Ksudoku\n",
+        "link": "http://ksudoku.sourceforge.net",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP1", "EP2", "EM"],
+        "label": "LBreakout2\n",
+        "link": "http://lgames.sourceforge.net/?project=LBreakout2",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "label": "Lincity\n",
+        "link": "http://lincity.sourceforge.net",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "label": "Lincity-ng\n",
+        "link": "https://code.google.com/p/lincity-ng/",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "label": "Opencity\n",
+        "link": "http://www.opencity.info",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EPE", "EP1"],
+        "label": "Pingus\n",
+        "link": "http://pingus.seul.org",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "XiStrat\n",
+        "link": "http://xistrat.sourceforge.net",
+        "area": "Juego estrategia"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Pairs\n",
+        "link": "http://edu.kde.org/applications/all/pairs",
+        "area": "Juego memoria"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Lmemory\n",
+        "link": "http://home.comcast.net/%7Ex.zhang1/linux_game.html",
+        "area": "Juego memoria"
+    }, {
+        "nivel": ["EP1", "EP2", "EM"],
+        "label": "Mnemosyne\n",
+        "link": "http://mnemosyne-proj.org",
+        "area": "Juego memoria"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Ltris (Tetris)\n",
+        "link": "http://lgames.sourceforge.net/?project=LTris",
+        "area": "Juego razonamiento espacial"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Kblocks (Tetris)\n",
+        "link": "http://www.kde.org/applications/games/kblocks",
+        "area": "Juego razonamiento espacial"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Klickety (Tetris)\n",
+        "link": "http://kde-apps.org/content/show.php/klickety?content=10425",
+        "area": "Juego razonamiento espacial"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "\u00c1lgebra",
+        "label": "Axiom\n",
+        "link": "http://axiom.axiom-developer.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "\u00c1lgebra",
+        "label": "Cantor\n",
+        "link": "http://www.kde.org/applications/education/cantor",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "\u00c1lgebra",
+        "label": "CoCoA\n",
+        "link": "http://cocoa.dima.unige.it",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "\u00c1lgebra",
+        "label": "GAP\n",
+        "link": "http://www.gap-system.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "\u00c1lgebra",
+        "label": "GNU Octave\n",
+        "link": "http://www.gnu.org/software/octave",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "\u00c1lgebra",
+        "label": "Kalgebra\n",
+        "link": "http://edu.kde.org/applications/mathematics/kalgebra",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "\u00c1lgebra",
+        "label": "Mathomatic\n",
+        "link": "http://www.mathomatic.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "\u00c1lgebra",
+        "label": "Maxima\n",
+        "link": "http://maxima.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "\u00c1lgebra",
+        "label": "PARI/GP\n",
+        "link": "http://pari.math.u-bordeaux.fr",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "\u00c1lgebra",
+        "label": "Reduce\n",
+        "link": "http://reduce-algebra.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "\u00c1lgebra",
+        "label": "Relational\n",
+        "link": "http://galileo.dmi.unict.it/wiki/relational",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "\u00c1lgebra",
+        "label": "Sage\n",
+        "link": "http://www.sagemath.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "\u00c1lgebra",
+        "label": "Yacas\n",
+        "link": "http://yacas.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "An\u00e1lisis de datos",
+        "label": "Extrema\n",
+        "link": "http://exsitewebware.com/extrema",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "An\u00e1lisis de datos",
+        "label": "Fityk\n",
+        "link": "http://fityk.nieto.pl",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "An\u00e1lisis de datos",
+        "label": "Freemat\n",
+        "link": "http://freemat.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "An\u00e1lisis de datos",
+        "label": "LabPlot\n",
+        "link": "http://labplot.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "An\u00e1lisis de datos",
+        "label": "Mayavi\n",
+        "link": "http://code.enthought.com/projects/mayavi",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "An\u00e1lisis de datos",
+        "label": "QtiPlot\n",
+        "link": "http://www.qtiplot.com/",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "An\u00e1lisis de datos",
+        "label": "SciCraft\n",
+        "link": "http://www.scicraft.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "An\u00e1lisis de datos",
+        "label": "SciDAVis\n",
+        "link": "http://scidavis.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "An\u00e1lisis de datos",
+        "label": "VisIt\n",
+        "link": "https://wci.llnl.gov/simulation/computer-codes/visit",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP1", "EP2", "EM"],
+        "subarea": "Aritm\u00e9tica",
+        "label": "Junior-Math\n",
+        "link": "http://packages.debian.org/wheezy/junior-math",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EPE", "EP1"],
+        "subarea": "Aritm\u00e9tica",
+        "label": "Plutimikation\n",
+        "link": "http://www.lst.de/~cs/plutimikation/",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP1"],
+        "subarea": "Aritm\u00e9tica",
+        "label": "Tuxmath\n",
+        "link": "http://tux4kids.alioth.debian.org/tuxmath",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP1"],
+        "subarea": "Aritm\u00e9tica",
+        "label": "TuxMathScrabble\n",
+        "link": "http://www.asymptopia.org/tuxmathscrabble",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "CAD",
+        "label": "OpenSCAD\n",
+        "link": "http://www.openscad.org/",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Calculadora",
+        "label": "ATCalc\n",
+        "link": "http://atcalc.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Calculadora",
+        "label": "GraphCalc\n",
+        "link": "http://www.graphcalc.com",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP1", "EP2", "EM", "ES"],
+        "subarea": "Calculadora",
+        "label": "Kcalc\n",
+        "link": "http://utils.kde.org/projects/kcalc",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Calculadora",
+        "label": "rpCalc\n",
+        "link": "http://rpcalc.bellz.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM"],
+        "subarea": "Combinatoria",
+        "label": "Kanagram\n",
+        "link": "http://edu.kde.org/applications/all/kanagram",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Creaci\u00f3n de Gr\u00e1ficos",
+        "label": "Grace\n",
+        "link": "http://plasma-gate.weizmann.ac.il/Grace",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Creaci\u00f3n de gr\u00e1ficos",
+        "label": "Genius\n",
+        "link": "http://www.jirka.org/genius.html",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Creaci\u00f3n de Gr\u00e1ficos",
+        "label": "Gnuplot\n",
+        "link": "http://www.gnuplot.info",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Creaci\u00f3n de Gr\u00e1ficos",
+        "label": "Graph\n",
+        "link": "http://www.padowan.dk",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Creaci\u00f3n de Gr\u00e1ficos",
+        "label": "Graphics Layout Engine\n",
+        "link": "http://www.gle-graphics.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Creaci\u00f3n de gr\u00e1ficos",
+        "label": "GraphMonkey\n",
+        "link": "http://graphmonkey.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Creaci\u00f3n de gr\u00e1ficos",
+        "label": "PLplot\n",
+        "link": "http://plplot.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Creaci\u00f3n de Gr\u00e1ficos",
+        "label": "Veusz\n",
+        "link": "http://home.gna.org/veusz",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Creaci\u00f3n de gr\u00e1ficos",
+        "label": "XmdvTool\n",
+        "link": "http://davis.wpi.edu/~xmdv",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "C\u00e1lculo num\u00e9rico",
+        "label": "Scilab\n",
+        "link": "http://www.scilab.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Ecuaciones diferenciales",
+        "label": "FreeFem++\n",
+        "link": "http://www.freefem.org/ff++/index.htm",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Ecuaciones diferenciales",
+        "label": "Tochnog\n",
+        "link": "http://tochnog.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Estad\u00edstica",
+        "label": "GGobi\n",
+        "link": "http://www.ggobi.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Estad\u00edstica",
+        "label": "HippoDraw\n",
+        "link": "http://www.slac.stanford.edu/grp/ek/hippodraw",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Estad\u00edstica",
+        "label": "Gretl\n",
+        "link": "http://gretl.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Estad\u00edstica",
+        "label": "PSPP\n",
+        "link": "http://www.gnu.org/software/pspp",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Fractales",
+        "label": "Xaos\n",
+        "link": "http://matek.hu/xaos/doku.php",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "subarea": "Fracciones",
+        "label": "Jfractionlab\n",
+        "link": "http://jfractionlab.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "subarea": "Fracciones",
+        "label": "Kbruch\n",
+        "link": "http://edu.kde.org/kbruch",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "subarea": "Funciones",
+        "label": "Kmplot\n",
+        "link": "http://edu.kde.org/kmplot",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "subarea": "Funciones",
+        "label": "Mathwar\n",
+        "link": "http://mathwar.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Geometr\u00eda y \u00c1lgebra",
+        "label": "Geogebra\n",
+        "link": "http://www.geogebra.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Geometr\u00eda",
+        "label": "CaRMetal\n",
+        "link": "http://carmetal.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Geometr\u00eda",
+        "label": "DrGeo\n",
+        "link": "http://www.drgeo.eu",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Geometr\u00eda",
+        "label": "Geomview\n",
+        "link": "http://www.geomview.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Geometr\u00eda",
+        "label": "Geonext\n",
+        "link": "http://geonext.uni-bayreuth.de",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Geometr\u00eda",
+        "label": "Gmsh\n",
+        "link": "http://geuz.org/gmsh",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Geometr\u00eda",
+        "label": "JSXGraph\n",
+        "link": "http://jsxgraph.uni-bayreuth.de",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2"],
+        "subarea": "Geometr\u00eda",
+        "label": "Kali\n",
+        "link": "http://www.geometrygames.org/Kali",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Geometr\u00eda",
+        "label": "Kig\n",
+        "link": "http://edu.kde.org/kig",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "subarea": "Geometr\u00eda",
+        "label": "Kseg\n",
+        "link": "http://www.mit.edu/~ibaran/kseg.html",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "subarea": "Geometr\u00eda",
+        "label": "OpenEuclide\n",
+        "link": "http://coulon.publi.free.fr/openeuclide",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Geometr\u00eda",
+        "label": "Polyhedron\n",
+        "link": "http://sourceforge.net/projects/polyhedronsrch",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Geometr\u00eda",
+        "label": "R.e.C.\n",
+        "link": "http://car.rene-grothmann.de/doc_en/index.html",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Grafos",
+        "label": "GraphThing\n",
+        "link": "http://graph.seul.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Grafos",
+        "label": "Grinvin\n",
+        "link": "http://www.grinvin.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "label": "Rmetrics\n",
+        "link": "https://www.rmetrics.org",
+        "area": "Matem\u00e1tica Financiera"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Modelador 3D",
+        "label": "POV-Ray\n",
+        "link": "http://www.povray.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP2"],
+        "subarea": "Porcentaje",
+        "label": "Kpercentage\n",
+        "link": "http://edu.kde.org/kpercentage",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Superficies",
+        "label": "K3DSurf\n",
+        "link": "http://kde-apps.org/content/show.php?content=25049",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP1", "EP2", "EM"],
+        "subarea": "Tangram",
+        "label": "Glpeces\n",
+        "link": "http://tangram-puzzle.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2"],
+        "subarea": "Tangram",
+        "label": "Gtans\n",
+        "link": "http://gtans.sourceforge.net",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Teoremas",
+        "label": "Coq\n",
+        "link": "http://coq.inria.fr",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Teoremas",
+        "label": "Isabelle\n",
+        "link": "http://isabelle.in.tum.de",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Teoremas",
+        "label": "Key\n",
+        "link": "http://www.key-project.org",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Vectores",
+        "label": "Gensim\n",
+        "link": "http://radimrehurek.com/gensim",
+        "area": "Matem\u00e1tica"
+    }, {
+        "nivel": ["EP1", "EP2"],
+        "label": "Ktouch\n",
+        "link": "http://ktouch.sourceforge.net",
+        "area": "Mecanograf\u00eda"
+    }, {
+        "nivel": ["EPE", "EP1"],
+        "label": "TuxTyping\n",
+        "link": "http://tux4kids.alioth.debian.org/tuxtype",
+        "area": "Mecanograf\u00eda"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Im\u00e1genes",
+        "label": "3DSlicer\n",
+        "link": "http://www.slicer.org",
+        "area": "Medicina"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Im\u00e1genes",
+        "label": "InVesalius\n",
+        "link": "http://www.cti.gov.br/invesalius",
+        "area": "Medicina"
+    }, {
+        "nivel": ["ES"],
+        "label": "AcMus\n",
+        "link": "http://gsd.ime.usp.br/acmus/soft.html",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Canorus\n",
+        "link": "http://sourceforge.net/projects/canorus.berlios",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Denemo\n",
+        "link": "http://www.denemo.org",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Editom\n",
+        "link": "http://www.softwarepublico.gov.br/ver-comunidade?community_id=21650445",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "FluidSynth\n",
+        "link": "http://sourceforge.net/apps/trac/fluidsynth",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Freeclef\n",
+        "link": "http://www.freeclef.org",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Frescobaldi\n",
+        "link": "http://www.frescobaldi.org",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Frets on fire\n",
+        "link": "http://fretsonfire.sourceforge.net",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Hydrogen\n",
+        "link": "http://www.hydrogen-music.org",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "label": "Impro-Visor\n",
+        "link": "http://www.cs.hmc.edu/~keller/jazz/improvisor",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "LenMus\n",
+        "link": "http://lenmus.sourceforge.net",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Lilypond\n",
+        "link": "http://lilypond.org",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP1", "EP2", "EM", "ES"],
+        "label": "LMMS\n",
+        "link": "http://lmms.sourceforge.net",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP1", "EP2", "EM", "ES"],
+        "label": "Musescore\n",
+        "link": "http://musescore.org",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Nootka\n",
+        "link": "http://nootka.sourceforge.net",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "NoteEdit\n",
+        "link": "http://sourceforge.net/projects/noteedit.berlios",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Nted\n",
+        "link": "http://vsr.informatik.tu-chemnitz.de/~jan/nted/nted.xhtml",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Rosegarden\n",
+        "link": "http://www.rosegardenmusic.com",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "label": "Score Reading Trainer\n",
+        "link": "http://scret.sourceforge.net",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP1", "EP2", "EM", "ES"],
+        "label": "Solfege\n",
+        "link": "http://www.solfege.org",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["ES"],
+        "label": "SuperCollider\n",
+        "link": "http://supercollider.sourceforge.net",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Swami\n",
+        "link": "http://www.swamiproject.org",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EP1", "EP2", "EM", "ES"],
+        "label": "Tiny Ear Trainer\n",
+        "link": "http://29a.ch/tinyeartrainer",
+        "area": "M\u00fasica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "label": "BlueJ\n",
+        "link": "http://bluej.org",
+        "area": "Programaci\u00f3n"
+    }, {
+        "nivel": ["EM", "ES"],
+        "label": "Env3D\n",
+        "link": "http://env3d.org",
+        "area": "Programaci\u00f3n"
+    }, {
+        "nivel": ["EM", "ES"],
+        "label": "Euphoria\n",
+        "link": "http://openeuphoria.org",
+        "area": "Programaci\u00f3n"
+    }, {
+        "nivel": ["EM", "ES"],
+        "label": "GNU-Smalltalk\n",
+        "link": "http://smalltalk.gnu.org",
+        "area": "Programaci\u00f3n"
+    }, {
+        "nivel": ["EP1"],
+        "label": "Little Wizard\n",
+        "link": "http://littlewizard.sourceforge.net",
+        "area": "Programaci\u00f3n"
+    }, {
+        "nivel": ["ES"],
+        "label": "Potion\n",
+        "link": "http://perl11.org/potion/",
+        "area": "Programaci\u00f3n"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Python tutor\n",
+        "link": "http://www.pythontutor.com",
+        "area": "Programaci\u00f3n"
+    }, {
+        "nivel": ["EM", "ES"],
+        "label": "Robocode\n",
+        "link": "http://robocode.sourceforge.net",
+        "area": "Programaci\u00f3n"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Cristalograf\u00eda",
+        "label": "Drawxtl\n",
+        "link": "http://www.lwfinger.net/drawxtl",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Ecuaciones",
+        "label": "Eqchem\n",
+        "link": "http://www.freehackers.org/%7Etnagy/eqchem.html",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Espectrometr\u00eda",
+        "label": "MassXpert\n",
+        "link": "http://www.massxpert.org",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Estructuras",
+        "label": "Bkchem\n",
+        "link": "http://bkchem.zirael.org",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Estructuras",
+        "label": "Chemtool\n",
+        "link": "http://ruby.chemie.uni-freiburg.de/~martin/chemtool",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Estructuras",
+        "label": "Gabedit\n",
+        "link": "http://gabedit.sourceforge.net",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Avogadro\n",
+        "link": "http://avogadro.cc",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "BigDFT\n",
+        "link": "http://bigdft.org",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Chemsuite\n",
+        "link": "http://chemsuite.seul.org/",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "EasyChem\n",
+        "link": "http://easychem.sourceforge.net",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Gamgi\n",
+        "link": "http://www.gamgi.org",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Gdis\n",
+        "link": "http://gdis.sourceforge.net",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Gdpc\n",
+        "link": "http://www.frantz.fi/software/gdpc.php",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Ghemical\n",
+        "link": "http://bioinformatics.org/ghemical",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "JChemPaint\n",
+        "link": "https://jchempaint.github.io",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Jmol\n",
+        "link": "http://jmol.sourceforge.net",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "JOELib\n",
+        "link": "http://sourceforge.net/projects/joelib",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "KAtomic\n",
+        "link": "http://games.kde.org/game.php?game=katomic",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "KMovisto\n",
+        "link": "http://freecode.com/projects/kmovisto",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "MDynaMix\n",
+        "link": "http://mmkluster.fos.su.se/mdynamix",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Molekel\n",
+        "link": "http://molekel.cscs.ch",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Molo\n",
+        "link": "http://molo.concord.org",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "MPQC\n",
+        "link": "http://www.mpqc.org",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Ninithi\n",
+        "link": "https://sites.google.com/a/opensource.lk/ninithi",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Octopus\n",
+        "link": "http://www.tddft.org/programs/octopus",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "OpenBabel\n",
+        "link": "http://openbabel.org",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "PSI\n",
+        "link": "http://www.psicode.org",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "PyMOL\n",
+        "link": "http://pymol.org",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "QuteMol\n",
+        "link": "http://qutemol.sourceforge.net",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Rasmol\n",
+        "link": "http://www.rasmol.org",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "ShelXle\n",
+        "link": "http://ewald.ac.chemie.uni-goettingen.de/shelx",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "XDrawChem\n",
+        "link": "http://xdrawchem.sourceforge.net",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "Mol\u00e9culas",
+        "label": "Xmakemol\n",
+        "link": "http://www.nongnu.org/xmakemol",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Peso molecular",
+        "label": "Kmolcalc\n",
+        "link": "http://kemistry.sourceforge.net/kmolcalc.php",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EP2", "EM"],
+        "subarea": "Tabla peri\u00f3dica",
+        "label": "Gperiodic\n",
+        "link": "http://www.frantz.fi/software/gperiodic.php",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "subarea": "Tabla peri\u00f3dica",
+        "label": "Kalzium\n",
+        "link": "http://edu.kde.org/kalzium",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EM", "ES"],
+        "subarea": "pH",
+        "label": "Xem\n",
+        "link": "http://www.linux-france.org/prj/xem",
+        "area": "Qu\u00edmica"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Gradel\n",
+        "link": "http://gradel.sourceforge.net",
+        "area": "Utilitario"
+    }, {
+        "nivel": ["EM", "ES"],
+        "label": "KSociograma\n",
+        "link": "http://kde-apps.org/content/show.php?content=12666",
+        "area": "Utilitario"
+    }, {
+        "nivel": ["EPE", "EP1"],
+        "label": "Childsplay\n",
+        "link": "http://childsplay.sourceforge.net",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2", "EM", "ES"],
+        "label": "Debian Edu\n",
+        "link": "https://packages.debian.org/source/sid/debian-edu",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Dia\n",
+        "link": "http://dia-installer.de",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EP1", "EP2", "EM", "ES"],
+        "label": "Etoys\n",
+        "link": "http://www.squeakland.org",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Freemind\n",
+        "link": "http://freemind.sourceforge.net",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2"],
+        "label": "Gcompris\n",
+        "link": "http://gcompris.net",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2"],
+        "label": "Jclic\n",
+        "link": "http://clic.xtec.cat/es/jclic",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2", "EM", "ES"],
+        "label": "Klogo-Turtle\n",
+        "link": "http://klogoturtle.sourceforge.net",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2", "EM", "ES"],
+        "label": "Kturtle\n",
+        "link": "http://www.kde.org/applications/education/kturtle",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2", "EM", "ES"],
+        "label": "NetLogo\n",
+        "link": "http://ccl.northwestern.edu/netlogo",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EPE", "EP1"],
+        "label": "Omnitux\n",
+        "link": "http://omnitux.sourceforge.net/",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2", "EM", "ES"],
+        "label": "OpenStarLogo\n",
+        "link": "http://education.mit.edu/openstarlogo",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2", "EM", "ES"],
+        "label": "Pharo\n",
+        "link": "http://pharo.org",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2", "EM", "ES"],
+        "label": "Scratch\n",
+        "link": "http://scratch.mit.edu",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EP1", "EP2", "EM", "ES"],
+        "label": "Semantik\n",
+        "link": "http://kde-apps.org/content/show.php?content=55242",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EP1", "EP2", "EM", "ES"],
+        "label": "Snap!\n",
+        "link": "http://snap.berkeley.edu",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2", "EM", "ES"],
+        "label": "Squeak\n",
+        "link": "http://www.squeak.org",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2", "EM"],
+        "label": "Sugar\n",
+        "link": "http://www.sugarlabs.org",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2", "EM", "ES"],
+        "label": "Turtleart\n",
+        "link": "http://turtleart.org",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EPE", "EP1", "EP2", "EM", "ES"],
+        "label": "UCBlogo\n",
+        "link": "http://www.cs.berkeley.edu/%7Ebh/logo.html",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "Virtual Microscope\n",
+        "link": "http://virtual.itg.uiuc.edu",
+        "area": "Varias \u00e1reas"
+    }, {
+        "nivel": ["EP2", "EM", "ES"],
+        "label": "VUE\n",
+        "link": "http://vue.tufts.edu",
+        "area": "Varias \u00e1reas"
+    }],
+    "properties": {
+        "url": {
+            "valueType": "url"
+        }
+    },
+    "types": {
+        "Item": {
+            "label": "programa",
+            "pluralLabel": "programas"
+        }
+    }
+}
+
