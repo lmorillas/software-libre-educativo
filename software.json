@@ -1859,9 +1859,6 @@
         "properties": {
             "link": {
                 "valueType": "url"
-            },
-            "nivel":{
-                "valueType": "tnivel"
             }
         },
         "types": {
