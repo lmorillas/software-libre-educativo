@@ -41,6 +41,12 @@
     div.exhibit-legendWidget > div.exhibit-color-legend > div > div > span.label {
         color: black;
     }
+    .titulo {
+        text-align: center;
+    }
+    .row {
+        margin-top: 4em;
+    }
     </style>
 
     <script type="text/javascript">
@@ -59,21 +65,19 @@
 
 
     <div class="container-fluid">
-        <div class="col-xs-8 center-block" style="float:none;">
-            <center>
-                <h1>Software Libre Educativo</h1>
+        <div class="col-xs-8 center-block titulo" style="float:none;">
+            <h1>Software Libre Educativo</h1>
                 <p>Información extraída de <a href="http://educacaoaberta.org/wiki/index.php?title=Tabla_Din%C3%A1mica_Software_Educativo_Libre">http://educacaoaberta.org/wiki/index.php?title=Tabla_Din%C3%A1mica_Software_Educativo_Libre</a> </p>
-            </center>
         </div>
 
         <div class="row">
+        <div data-ex-role="collection" data-ex-item-types="Item"></div>
             <div class="col-md-3">
 
                 <div class="ext_search" data-ex-role="exhibit-facet" data-ex-facet-class="TextSearch" data-ex-facet-label="Buscar">
                 </div>
 
-                <div data-ex-role="exhibit-facet" data-ex-expression=".nivel"
-
+                <div data-ex-role="exhibit-facet" data-ex-expression=".nivel.nombre"
                 data-ex-facet-label="Nivel educativo" data-ex-show-missing="false" data-ex-scroll="true" data-ex-collapsible="true"></div>
 
 
